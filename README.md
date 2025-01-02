@@ -13,6 +13,8 @@
 - Longest Common Prefix
 - Roman to Integer
 - Palindrome Number
+- Plus one
+- Add Binary
 
 ## Mid Problem
 
