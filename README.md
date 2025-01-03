@@ -78,7 +78,7 @@
 ## 7. Recursion Problems
 
 - Calculate the power of a number using recursion. **(DONE)**
-- Find the sum of digits of a number using recursion.
+- Find the sum of digits of a number using recursion. **(DONE)**
 - Generate all subsets of a given set using recursion.
 - Solve the Tower of Hanoi problem for n disks.
 - Print all permutations of a given string.
