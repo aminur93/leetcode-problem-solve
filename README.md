@@ -15,6 +15,7 @@
 - Palindrome Number
 - Plus one
 - Add Binary
+- Sqrt(x)
 
 ## Mid Problem
 
@@ -79,7 +80,7 @@
 
 - Calculate the power of a number using recursion. **(DONE)**
 - Find the sum of digits of a number using recursion. **(DONE)**
-- Generate all subsets of a given set using recursion.
+- Generate all subsets of a given set using recursion. **(DONE)**
 - Solve the Tower of Hanoi problem for n disks.
 - Print all permutations of a given string.
 
