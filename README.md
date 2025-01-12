@@ -16,6 +16,8 @@
 - Plus one
 - Add Binary
 - Sqrt(x)
+- Climbing Stairs
+- Remove duplicated from sorted array lists
 
 ## Mid Problem
 
@@ -81,8 +83,8 @@
 - Calculate the power of a number using recursion. **(DONE)**
 - Find the sum of digits of a number using recursion. **(DONE)**
 - Generate all subsets of a given set using recursion. **(DONE)**
-- Solve the Tower of Hanoi problem for n disks.
-- Print all permutations of a given string.
+- Solve the Tower of Hanoi problem for n disks. **(DONE)**
+- Print all permutations of a given string. **(DONE)**
 
 ## 8. Stack and Queue Problems
 
