@@ -18,6 +18,7 @@
 - Sqrt(x)
 - Climbing Stairs
 - Remove duplicated from sorted array lists
+- Merge sorted array
 
 ## Mid Problem
 
