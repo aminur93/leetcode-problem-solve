@@ -89,19 +89,19 @@
 
 ## 8. Stack and Queue Problems
 
-- Implement a stack using arrays.
-- Implement a queue using two stacks.
-- Check for balanced parentheses in an expression.
-- Reverse a string using a stack.
-- Find the largest rectangle in a histogram using a stack.
+- Implement a stack using arrays. **(DONE)**
+- Implement a queue using two stacks. **(DONE)**
+- Check for balanced parentheses in an expression. **(DONE)**
+- Reverse a string using a stack. **(DONE)**
+- Find the largest rectangle in a histogram using a stack. **(DONE)**
 
 ## 9. Tree Problems
 
-- Traverse a binary tree using pre-order, in-order, and post-order traversals.
-- Find the height of a binary tree.
-- Count the number of leaf nodes in a binary tree.
-- Check if two binary trees are identical.
-- Print all nodes at a given level in a binary tree.
+- Traverse a binary tree using pre-order, in-order, and post-order traversals. **(DONE)**
+- Find the height of a binary tree. **(DONE)**
+- Count the number of leaf nodes in a binary tree. **(DONE)**
+- Check if two binary trees are identical. **(DONE)**
+- Print all nodes at a given level in a binary tree. **(DONE)**
 
 ## 10. Graph Problems
 
