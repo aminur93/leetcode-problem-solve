@@ -105,11 +105,11 @@
 
 ## 10. Graph Problems
 
-- Implement a graph using an adjacency list.
-- Perform Depth-First Search (DFS) on a graph.
-- Perform Breadth-First Search (BFS) on a graph.
-- Detect a cycle in a graph.
-- Find the shortest path between two nodes using BFS.
+- Implement a graph using an adjacency list. **(DONE)**
+- Perform Depth-First Search (DFS) on a graph. **(DONE)**
+- Perform Breadth-First Search (BFS) on a graph. **(DONE)**
+- Detect a cycle in a graph. **(DONE)**
+- Find the shortest path between two nodes using BFS. **(DONE)**
 
 ## 11. Pyramid Pattern Problems for Matrices (2D Structures)
 
